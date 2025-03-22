@@ -499,7 +499,6 @@
 .main-txt h1 {
     font-size: 2rem;
     font-weight: bold;
-    text-transform: capitalize;
     position: relative;
     display: inline-block;
     padding-bottom: 10px;
